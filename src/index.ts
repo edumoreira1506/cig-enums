@@ -1,4 +1,5 @@
 export * from './BreederContactTypeEnum';
+export * from './DealEventValueEnum';
 export * from './PoultryColorEnum';
 export * from './PoultryCrestEnum';
 export * from './PoultryDewlapEnum';
