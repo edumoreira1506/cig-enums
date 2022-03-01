@@ -8,3 +8,4 @@ export * from './PoultryGenderEnum';
 export * from './PoultryTailEnum';
 export * from './PoultryTypeEnum';
 export * from './RegisterTypeEnum';
+export * from './UserRegisterTypeEnum';
