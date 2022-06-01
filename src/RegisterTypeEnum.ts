@@ -4,5 +4,6 @@ export enum RegisterTypeEnum {
   Vaccination = 'VACINAÇÃO',
   Advertising = 'ANÚNCIO',
   RemoveAdvertising = 'REMOÇÃO DE ANÚNCIO',
-  Transfer = 'TRANSFERÊNCIA'
+  Transfer = 'TRANSFERÊNCIA',
+  Death = 'COMUNICADO DE MORTE'
 }
